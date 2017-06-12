@@ -1,5 +1,5 @@
 Package: pointvis
-Title: Point Data Visualization
+Title: Point Data Visualization from CSV
 Version: 0.0.0.9000
 Authors@R: person("Marta", "Blanco Castano", email = "marta.blanco-castano@du.edu", role = c("aut", "cre"))
 Description: This package includes three basic functions, which allow for the visualization of point data from a CSV file (comma delimitted), containing coordinates. The first displays all input points over a basemap. The next groups the points into clusters based on proximity, which, as one zooms in, are visualized differently. The third creates a heatmap, to show the overall trend in the geographic coverage and occurrence of those input points.
