@@ -1,4 +1,4 @@
-# pointvis
+# pointvis - Package installation details (how-to)
 This folder contains the pacakge 'pointvis', which presents three point data visualization functions.
 To install the package for R please type in:
     devtools::install_github("martabc/pointvis")
