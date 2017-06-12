@@ -11,7 +11,7 @@ Depending on the version of R installed, some of the libraries may not auto inst
 Or, alternatively, you may search for the development version of the package in question via Google or GitHub, and download again via devtools with something such as follows (this example requires that you know the original username or account name of the user publishing the package):
     devtools::install_github('bhaskarvk/leaflet.extras')
     
-From testing the installation of the pacakge, I only predict two of them to be problematic based on current R and RStudio versions:  leaflet.extras and rMaps.
+From testing the installation of the pacakge, I only predict two of them to be problematic based on current R and RStudio versions:  'leaflet.extras' and 'rMaps'.
 
 
 Hope this helps!
